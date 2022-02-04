@@ -2,6 +2,20 @@
 
 Scripts repository to automate the uninstall of Docker Desktop app and install and configuration of lima as an alternative.
 
+## **Instructions**
+
+First of all, type the following commands to enable script's execution:
+
+```
+chmod +x install_lima.sh && chmod +x start_lima.sh
+```
+
+After these commands, the scripts could be run as the following commands:
+
+```
+./install_lima.sh && start_lima.sh
+```
+
 ## **install_lima.sh**
 
 **In this script we:**
